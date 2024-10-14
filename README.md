@@ -7,3 +7,4 @@ George Bellows arrived in New York in 1904 and quickly established a reputation 
 .ve-media wc:George_Bellows_-_Club_Night_(1907).jpg
 
 #Section Title
+Between 1907 and 1909, Bellows turned his focus to the underground world of boxing for the subject matter of his paintings.  Boxing was in a unclear state of legality at the time that *Club Night* and Bellows' other boxing focused paintings and drawings were created, with it being permitted within clubs but not publically. Paired with the annonymous apperance of the crowd members, the dark background emphasizes the violent, grimmy nature of these club fights. The dramatic lighting covers the boxers, who are risen to the foreground atop the boxing ring, showcasing the blood and violence to the viewer. Bellows painted the boxers in an active stance, as if amidst a real fight and us, the viewer, is there in the crowd. 
