@@ -20,4 +20,5 @@ In his drawings of boxing matches, he shows important moments within a boxing ma
 The blood on the boxer’s face is a direct call towards the violence of the sport. Used to greater affect in his other boxing paintings such as *Both Members of this Club* (1909), Bellows uses a heavy and contrasting red to show the boxer’s bloody nose. He shows attention to the figure of the injured facial part, as it is the producer of the blood, but little else on the boxer’s face, reflecting the lack of care for the individual boxer as opposed to the care for their performance in their boxing match. 
 
 #Section Title
-.ve-video:https://www.youtube.com/watch?v=E3OmAaasGnA
+.ve-video
+https://www.youtube.com/watch?v=E3OmAaasGnA
