@@ -22,4 +22,4 @@ The blood on the boxer’s face is a direct call towards the violence of the spo
 #Section Title
 
 .ve-video
-https://www.youtube.com/watch?v=FoL1dsHMz1I&t=3s
+https://youtu.be/FoL1dsHMz1I?si=iM-d2PKnBbKnYGCk
