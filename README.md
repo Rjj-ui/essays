@@ -16,6 +16,8 @@ Between 1907 and 1909, Bellows turned his focus to the underground world of boxi
 
 In his drawings of boxing matches, he shows important moments within a boxing match such as a knockout, the introductions or the raising of the champions glove. However, with *Club Night*, Bellows painted the action as it was happening, forgoing any evident narrative elements. This is clear with the blurring of the left glove of the boxer on the left. The blurring of this glove provides the illusion of motion, the same way motion is captured through photography. 
 
+.ve-media wc:George_Bellows_-_A_Knock-Out_-_Google_Art_Project.jpg right
+
 #Section Title
 .ve-media wc:George_Bellows,_Both_Members_of_This_Club,_1909,_NGA_30667.jpg right
 
